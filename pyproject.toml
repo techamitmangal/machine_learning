@@ -1,0 +1,13 @@
+[project]
+name = "machine-learning-workspace"
+version = "0.1.0"
+description = "Machine Learning Projects Workspace"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+]
